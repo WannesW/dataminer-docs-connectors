@@ -6941,6 +6941,8 @@
   items:
   - name: Prometheus Data Exporter
     topicUid: Connector_help_Prometheus_Data_Exporter
+    - name: Prometheus Alert Manager
+    topicUid: Connector_help_Prometheus_Alert_Manager
 - name: Promise Technology
   items:
   - name: Promise Technology Vtrak E-J Class
